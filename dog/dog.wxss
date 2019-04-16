@@ -1,0 +1,9 @@
+/* dog/dog.wxss */
+.image{
+    background-image: url("http://kuan.mynatapp.cc/images/demo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 400px;
+    text-align: center;
+}

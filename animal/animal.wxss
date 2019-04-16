@@ -1,0 +1,21 @@
+.user-probabilitys{
+ font-family: 微软雅黑;
+ color: #CD6600;
+ margin:15rpx 40rpx;
+}
+
+.baikeinfo{
+  margin:15rpx 40rpx;
+  display: flex;
+  flex-direction: row;
+  box-shadow:2rpx 3rpx 5rpx 6rpx  #c2c0c02c;
+  line-height:30px;
+}
+
+button {
+  font-family: 微软雅黑;
+}
+
+image{
+    width: 400px;
+}

@@ -1,0 +1,8 @@
+<view class="animal">
+  <form bindsubmit="uploadImg">
+    <image class="image" src="{{photos}}">
+    </image>
+    <button bindtap="chooseImg">拍照/点击选择图片</button>
+    <button form-type="submit">提交</button>
+  </form>
+</view>

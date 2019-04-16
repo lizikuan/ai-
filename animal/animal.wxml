@@ -1,0 +1,8 @@
+<view class="animal">
+<view wx:for="{{data}}">
+ <image src="{{item.baike_info.image_url}}">
+ </image><text>\n</text>
+<text class="user-probabilitys" >{{item.name}}：相似度:{{score}} \n</text>
+<view class='baikeinfo'>{{item.baike_info.description}}</view>
+</view>
+</view>
